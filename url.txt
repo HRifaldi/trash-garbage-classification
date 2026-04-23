@@ -1,0 +1,4 @@
+URL Dataset = https://www.kaggle.com/datasets/vencerlanz09/plastic-paper-garbage-bag-synthetic-images
+URL Model = https://huggingface.co/spaces/HRifaldi/Garbage-Prediction/blob/main/model_inference_1.keras
+URL Model = https://drive.google.com/file/d/1jSdiEa2IhmaxwYCRBL6LVb_EnxuiN5_X/view?usp=sharing
+URL Deployment = https://huggingface.co/spaces/HRifaldi/Garbage-Prediction
